@@ -872,6 +872,13 @@ p {
         padding: 70px 0;
     }
 
+    /* Logo Mobile Fix */
+    .logo img {
+        height: 32px !important;
+        width: auto !important;
+        max-width: 150px;
+    }
+
     /* Header */
 
     .nav {
